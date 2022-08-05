@@ -32,12 +32,12 @@ export default class App extends Component {
             <Routes>
               <Route path="/general" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="general" category="general" country="in"/>} />
               {/* start categories */}
-              <Route path="/business" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="business"category="business" country="in"/>} />
+              {/* <Route path="/business" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="business"category="business" country="in"/>} />
               <Route path="/sports" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="sports" category="sports" country="in"/>} />
               <Route path="/technology" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} category="technology" key="technology" country="in"/>} />
               <Route path="/health" element={<Home setProgress={this.setProgress} apiKey={this.apiKey} pageSize={this.pageSize} category="health" key="health" country="in"/>} />
               <Route path="/science" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="science" category="science" country="in"/>} />
-              <Route path="/entertainment" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="entertainment" category="entertainment" country="in"/>} />
+              <Route path="/entertainment" element={<Home setProgress={this.setProgress} apiKey={this.apiKey}  pageSize={this.pageSize} key="entertainment" category="entertainment" country="in"/>} /> */}
                {/* end categories */}
               <Route path="/about" element={<About setProgress={this.setProgress} />}/>
               <Route path="/contact" element={<Contact setProgress={this.setProgress}/>}/>
