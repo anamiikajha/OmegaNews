@@ -2,6 +2,13 @@
 - Omega News a news website, made using React Js class based components & it shows the latest news from the different news platforms. It uses newsapi.org API to provide news just by fetching news data from an API endpoint.
 ## `this.props.apiKey // the API key you have to get it from newsapi.org website.`
 ### `create a file named '.env.local' & in that REACT_APP_NEWS_API="your_apiKey" // put your apiKey in place of "your_apiKey"`
+
+# Preview 
+
+- Overview of OmegaNews
+
+![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/e5bf288f-9be9-47b7-b594-e1b445acb3b9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
