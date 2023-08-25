@@ -10,6 +10,7 @@
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/ae701d42-11e5-49e7-9f72-2d40cfda096b)
 
 - Onscroll home overview
+  
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/baf0688b-e09e-49b2-90c5-fbbd1e614c94)
 
 
