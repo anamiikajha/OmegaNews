@@ -3,12 +3,24 @@
 ## `this.props.apiKey // the API key you have to get it from newsapi.org website.`
 ### `create a file named '.env.local' & in that REACT_APP_NEWS_API="your_apiKey" // put your apiKey in place of "your_apiKey"`
 
-# Preview 
+# OmegaNews Preview 
 
-- Overview of OmegaNews
+- Home overview  
 
-![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/e5bf288f-9be9-47b7-b594-e1b445acb3b9)
+  ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/e5bf288f-9be9-47b7-b594-e1b445acb3b9)
 
+- About overview
+
+  ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/4efe60dc-ba05-45c1-893e-19c950b2034a)
+
+- Services overview
+  
+ ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/11299102-8010-4cc1-9aac-fd21c4def31c)
+
+- Contact overview
+ ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/c3a9f601-45c0-4bb4-81fd-e89726cd9227)
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
