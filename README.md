@@ -18,6 +18,7 @@
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/11299102-8010-4cc1-9aac-fd21c4def31c)
 
 - Contact overview
+  
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/c3a9f601-45c0-4bb4-81fd-e89726cd9227)
 
   
