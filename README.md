@@ -7,8 +7,9 @@
 
 - Home overview  
 
-  ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/e5bf288f-9be9-47b7-b594-e1b445acb3b9)
+  ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/ae701d42-11e5-49e7-9f72-2d40cfda096b)
 
+ 
 - About overview
 
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/4efe60dc-ba05-45c1-893e-19c950b2034a)
