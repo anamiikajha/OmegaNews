@@ -14,7 +14,7 @@
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/baf0688b-e09e-49b2-90c5-fbbd1e614c94)
 
 
-- About overview
+- About 
 
   ![image](https://github.com/anamiikajha/OmegaNews/assets/89740849/4efe60dc-ba05-45c1-893e-19c950b2034a)
 
